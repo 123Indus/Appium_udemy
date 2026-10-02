@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="End to End Framework Test(failed)">
+    <classes>
+      <class name="org.rahulshettyacademy.Ecomm_testCase_4_HybridAndroid">
+        <methods>
+          <include name="teardown"/>
+          <include name="fillForm"/>
+          <include name="configureAppium"/>
+        </methods>
+      </class> <!-- org.rahulshettyacademy.Ecomm_testCase_4_HybridAndroid -->
+    </classes>
+  </test> <!-- End to End Framework Test(failed) -->
+  <test thread-count="5" name="Error validation test(failed)">
+    <classes>
+      <class name="org.rahulshettyacademy.Ecomm_testCase_01Android">
+        <methods>
+          <include name="teardown"/>
+          <include name="fillForm_ErrorValidation"/>
+          <include name="configureAppium"/>
+          <include name="preSetup"/>
+        </methods>
+      </class> <!-- org.rahulshettyacademy.Ecomm_testCase_01Android -->
+    </classes>
+  </test> <!-- Error validation test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

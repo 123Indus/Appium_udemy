@@ -1,0 +1,6 @@
+com\rahulshettyacademy\utils\AndroidActions.class
+org\rahulshettyacademy\pageObjects\android\FormPage.class
+com\rahulshettyacademy\utils\AppiumUtils.class
+org\rahulshettyacademy\pageObjects\android\CartPage.class
+com\rahulshettyacademy\utils\AppiumUtils$1.class
+org\rahulshettyacademy\pageObjects\android\ProductCatalog.class

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;AppiumFrameworkDesign&apos;&#x0D;&#x0A;- Original project: &apos;AppiumFrameworkDesign&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     reportsFillForm_ErrorValidation.png&#x0D;&#x0A;     reportsFillForm.png" description="Delete elements" element1="reportsFillForm_ErrorValidation.png" element2="reportsFillForm.png" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1764135693680" subPackages="false" version="1.0"/>
+</session>

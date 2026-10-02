@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <groups>
+    <run>
+      <include name="smoke"/>
+    </run>
+  </groups>
+
+  <listeners>
+    <listener class-name="org.rahulshettyacademy.Listeners"/>
+  </listeners>
+
+  <test  name="End to End Framework Test">
+    <classes>
+      <class name="org.rahulshettyacademy.Ecomm_testCase_4_HybridAndroid"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Error validation test">
+    <classes>
+      <class name="org.rahulshettyacademy.Ecomm_testCase_01Android">
+      <methods>
+      <include name="fillForm_ErrorValidation()"/>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

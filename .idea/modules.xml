@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/.org.eclipse.jdt.core.external.folders/.org.eclipse.jdt.core.external.folders.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/.org.eclipse.jdt.core.external.folders/.org.eclipse.jdt.core.external.folders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rahul_appium/rahul_appium.iml" filepath="$PROJECT_DIR$/rahul_appium/rahul_appium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rahul_framework_design/rahul_framework_design.iml" filepath="$PROJECT_DIR$/rahul_framework_design/rahul_framework_design.iml" />
+    </modules>
+  </component>
+</project>

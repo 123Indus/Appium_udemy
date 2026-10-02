@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.service.local.AppiumServiceBuilder"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By.ByXPath"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeClass"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="com.google.common.collect.ImmutableMap"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.DeviceRotation"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.Activity"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.AppiumBy"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.functions.ExpectedCondition"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.nativekey.AndroidKey"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.options.UiAutomator2Options"/>
+    <fullyQualifiedTypeName name="appium_basics.Mobile_Browser_BaseTest"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+    <fullyQualifiedTypeName name="org.testng.Assert"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+    <fullyQualifiedTypeName name="org.rahulshettyacademy.pageObjects.android.FormPage"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.AndroidDriver"/>
+    <fullyQualifiedTypeName name="org.rahulshettyacademy.pageObjects.android.ProductCatalog"/>
+    <fullyQualifiedTypeName name="com.rahulshettyacademy.utils.AndroidActions"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.pagefactory.AndroidFindBy"/>
+    <fullyQualifiedTypeName name="org.rahulshettyacademy.pageObjects.android.CartPage"/>
+    <fullyQualifiedTypeName name="com.rahulshettyacademy.utils.AppiumUtils"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.AppiumDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
+    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="tools.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="tools.jackson.core.type.TypeReference"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.service.local.AppiumDriverLocalService"/>
+</qualifiedTypeNameHistroy>

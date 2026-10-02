@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="RefactoringWizard.Convert from JUnit">
+		<item key="width" value="730"/>
+		<item key="height" value="573"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item key="deleteSubPackages" value="true"/>
+	</section>
+</section>
